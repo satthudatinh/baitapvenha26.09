@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.container ul li a {
+    color: #ff6b81 ;
+
+}
+
+.main{
+    background-color: rgb(233,232,232);
+    
+}
+.status-deli{
+    color: green;
+}
+.status-can{
+    color: red;
+}
+.div-footer{
+    background-color: #ff4757;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+}
+.update-order{
+    background-color: rgb(85, 167, 85);
+}
+.container-fluid{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+}

@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.main-dashboard{
+    background-color: rgb(233,232,232);
+}
+.container ul li a {
+    color: #ff6b81 ;
+
+}
+.navbar li a:hover {
+    color: black ;
+}
+.card{
+    background-color: #fff;
+    text-align:center ;
+}
+.col-board{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.div-footer{
+    background-color: #ff4757;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+
+}
+.food-text{
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+.row p a {
+    color: blue;
+}
+.container-fluid{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.row h1{
+    padding-top: 50px;
+}
+

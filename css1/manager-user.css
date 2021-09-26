@@ -1,0 +1,30 @@
+.container ul li a {
+    color: #ff6b81 ;
+}
+.main{
+    background-color: rgb(233,232,232);
+}
+.change{
+    background-color: blue;
+}
+.delete{
+    background-color: rgb(241, 79, 79);
+}
+.update{
+    background-color: rgb(85, 167, 85);
+}
+.div-footer{
+    background-color: #ff4757;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+}
+.container-fluid{
+    padding-left: 100px;
+    padding-top: 50px;
+    
+}
+.row p a {
+    color: blue;
+}

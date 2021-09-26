@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.container ul li a {
+    color: #ff6b81 ;
+
+}
+.main{
+    background-color: rgb(230, 230, 230);
+}
+.nav-home{
+    text-align: center;
+}
+.nav-home a{
+    color: red;
+    
+}
+.delete{
+    background-color: rgb(241, 79, 79);
+}
+.update{
+    background-color: rgb(85, 167, 85);
+}
+.div-footer{
+    background-color: #ff4757;
+}
+.not-add{
+    color: red;
+}
+.footer-text{
+    text-align: center;
+    color: white;
+}
+.img-main{
+    width: 20%;
+    height: 20%;
+}
+.container-fluid{
+    padding-left: 50px;
+    padding-right: 40px;
+    padding-top: 50px;
+}
+.row p a {
+    color: blue;
+}
